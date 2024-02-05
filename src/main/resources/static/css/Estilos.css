@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 4 feb 2024, 13:29:28
+    Author     : kenca
+*/
+h1{
+    background-color: greenyellow;
+    text-align: center;
+    color: white;
+    border: black 2px solid;
+   
+}
+body{
+    background-color: #ECFFCB;
+    padding: 0;
+    margin: 0;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+.ventas{
+    text-align: left;
+}
+.articulos{
+    text-align: left;
+}
+.boton{
+    margin-left: 55px;
+}
+p{
+    text-align: center;
+}
+footer p{
+    text-align: left;
+}
+.nav{
+    margin-left: 100px;
+}
